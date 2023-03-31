@@ -1,6 +1,6 @@
 ![Header](./header.png)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-P-114514)](https://github.com/anuraghazra/github-readme-stats)
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-P-114514)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-P-114514&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Marcus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcus_P)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Marcus-P-114514/Marcus-P-114514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
